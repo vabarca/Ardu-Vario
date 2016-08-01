@@ -2,7 +2,7 @@
 Synopsis
 ========
 
-All Arduino develpments for Paraglide Variometer system
+All Arduino developments for Paraglide Variometer system
 
 Contributors
 ============
