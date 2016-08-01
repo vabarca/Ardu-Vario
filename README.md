@@ -2,7 +2,7 @@
 Synopsis
 ========
 
-All Arduino develpments for VW T5
+All Arduino develpments for Paraglide Variometer system
 
 Contributors
 ============
